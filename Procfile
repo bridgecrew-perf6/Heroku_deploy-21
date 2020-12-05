@@ -1,0 +1,1 @@
+web: gunicorn Dashboard_deploy:server --log-file=-
